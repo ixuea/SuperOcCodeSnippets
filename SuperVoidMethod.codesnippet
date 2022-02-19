@@ -9,8 +9,8 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/// &lt;#Description#&gt;
-- (void)&lt;#method name#&gt;{
+	<string>- (void)&lt;#method name#&gt;{
+    &lt;#statements#&gt;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AEBD86F1-2360-4953-8B81-E75FB87C95C9</string>

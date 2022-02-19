@@ -3,21 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ss</string>
+	<string>vda</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeExpression</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@strongify(self);</string>
+	<string>- (void)viewDidAppear:(BOOL)animated{
+    [super viewDidAppear:animated];
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>CD6B8768-F319-47CF-AD71-08E40F6451A5</string>
+	<string>0EFA15D2-C874-437E-913E-EEE860B40A57</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Super Strong Self</string>
+	<string>Super UIKit viewDidAppear</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

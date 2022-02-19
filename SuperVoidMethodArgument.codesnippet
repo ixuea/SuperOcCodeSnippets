@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>-(void)&lt;#method name#&gt;:(&lt;#argv type#&gt; &lt;#*#&gt;)&lt;#argv type#&gt;{
-
+    &lt;#statements#&gt;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>164661FA-5807-4310-A8D8-6E3F1573294E</string>

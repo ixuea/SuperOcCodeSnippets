@@ -9,7 +9,7 @@
 		<string>CodeExpression</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>__weak __typeof(self)weakSelf = self;</string>
+	<string>@weakify(self);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BF0D3923-A869-4D66-90F2-F161A363FD34</string>
 	<key>IDECodeSnippetLanguage</key>

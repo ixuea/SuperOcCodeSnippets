@@ -3,21 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ss</string>
+	<string>fs</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeExpression</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@strongify(self);</string>
+	<string>+(NSString *)&lt;#name#&gt;{
+    
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>CD6B8768-F319-47CF-AD71-08E40F6451A5</string>
+	<string>68937DDE-A45A-44F9-8674-6AE313C5E880</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Super Strong Self</string>
+	<string>Super NSString Method</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
